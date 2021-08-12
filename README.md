@@ -1,7 +1,5 @@
 # Project-1-Linear-regression
-
 We started by theorical understanding then there is the practical phase:
-
 Overview
 Introduction to linear Regression
 How it works 
@@ -9,9 +7,8 @@ Model evaluation : MAE/MAPE
 Multiple Linear regression
 Model Diagnostics: p-value, R-squared, Adjusted R-squared, VIF.
 Use Cases
-
-
 This a project of linear regression where we predict life expectancy for WHO organization.
+         
          
          The bussiness Problem :
 Word Health Organisation wants a data driven approach which could help in suggesting a country which area should be given importance in order to improve the life expectancy of its population.
@@ -21,6 +18,7 @@ Build a prediction model which predicts the life expactancy on various feautures
 
          Libraries used in this Project : 
 numpy ,pandas, seaborn sklearn and statsmodels.
+
 
 # Loading and understanding data :
 df = pd.read_csv(r"PATH")
