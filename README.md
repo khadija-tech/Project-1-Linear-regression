@@ -28,7 +28,7 @@ df.info()
 df.describe()
 def.head()
 
-# Printing numerical and categorical columns :
+# Printing numerical and categorical columns:
 to discover extra spaces in columns names
 
 # Data Pre-Proccessing :
