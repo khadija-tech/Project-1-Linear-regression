@@ -61,3 +61,8 @@ Approach 3 : Stepwise Regression
 # Model Prediction and Evaluation
 Evaluvation: MSE - MAPE.
 we visualize the results scatterplot and histogramme. 
+
+
+
+link to the notebook :
+https://nbviewer.jupyter.org/github/khadija-tech/Project-1-Linear-regression/blob/main/Linear_regression_with%20_project1_LifeExpectancy..ipynb
